@@ -1,4 +1,3 @@
-```markdown
 # OrangeHRM Automation Testing with Cypress (POM)
 
 This project demonstrates automation testing on the OrangeHRM demo site using **Cypress** applying **Page Object Model (POM)** structure.
